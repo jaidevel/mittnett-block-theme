@@ -4,7 +4,7 @@
 
 This repository is designed as a **GitHub Template**, allowing you to quickly create new, independent WordPress Block Themes with a clean, professional development workflow.
 
-### ✨ Features
+### Features
 
 - WordPress 6.x+ **Block Theme** ready (no page builders needed)
 - **Modern SCSS + JavaScript** build workflow
@@ -16,7 +16,7 @@ This repository is designed as a **GitHub Template**, allowing you to quickly cr
 - **Colorful terminal output** for better developer experience
 - Designed to be **extensible** and **future-proof**
 
-### 🚀 How to Use This Template
+### How to Use This Template
 
 1. Click **Use this template** at the top of the repository.
 2. Create a **new repository** based on this template.
@@ -26,7 +26,7 @@ This repository is designed as a **GitHub Template**, allowing you to quickly cr
    cd your-new-repo-name
    ```
 
-### 🛠 Installation
+### Installation
 
 Install the required dependencies:
 
@@ -34,7 +34,7 @@ Install the required dependencies:
 npm install
 ```
 
-### 🔥 Development Workflow
+### Development Workflow
 
 #### Start watching SCSS and JS:
 
@@ -64,7 +64,7 @@ npm run build
 
 This outputs minified, optimized CSS and JS files inside the `assets/` directory.
 
-### 📂 Folder Structure
+### Folder Structure
 
 ```text
 /assets
@@ -83,15 +83,13 @@ package.json
 postcss.config.js
 ```
 
-### 📜 License
+### License
 
 This project is open-sourced under the [MIT License](LICENSE).
 
-### ✍️ Author
+### Author
 
-Built with ❤️ by Bjørn Kristiansen  
+Built with ❤️ by Mittnett  
 Based on professional WordPress development standards.
 
 > **Note:** This project is licensed under the MIT license, allowing anyone to use, modify, and distribute it freely, with minimal restrictions.
-
-### 🎯 Ready to build your next WordPress Block Theme faster and better!
