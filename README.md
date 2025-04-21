@@ -85,11 +85,11 @@ postcss.config.js
 
 ### License
 
-This project is open-sourced under the [MIT License](LICENSE).
+This project is open-sourced under the GNU GENERAL PUBLIC LICENSE.
 
 ### Author
 
 Built with ❤️ by Mittnett  
 Based on professional WordPress development standards.
 
-> **Note:** This project is licensed under the MIT license, allowing anyone to use, modify, and distribute it freely, with minimal restrictions.
+> **Note:** This project is licensed under the GNU GENERAL PUBLIC LICENSE.
